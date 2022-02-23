@@ -23,8 +23,7 @@
   font-family: system-ui;
   color: #a1a1a1;
 }
-.header div span,
-h1 {
+.header div span {
   margin: 0px 10px;
   color: #211814e0;
   cursor: pointer;

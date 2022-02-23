@@ -3,7 +3,29 @@
     "id": "CB0001",
     "image": "https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000002487]_20210426091745467.jpg",
     "name": "나이트로 바닐라 크림",
-    "type": "coldBrew"
+    "summary": "부드러운 목넘김의 나이트로 커피와 바닐라 크림의 매력을 한번에 느껴보세요!",
+    "type": "coldBrew",
+    "nourishment": {
+      "kal": 80,
+      "saturatedFat": 2,
+      "protein": 1,
+      "sodium": 40,
+      "sugar": 10,
+      "caffeine": 232,
+      "allergy": ["우유"]
+    },
+    "review": [
+      {
+        "id": "FJDN202FS",
+        "username": "seongho",
+        "comment": "이거 맛있어요!"
+      },
+      {
+        "id": "DWHN6022S",
+        "username": "jhon_24",
+        "comment": "부드러운 넘김이 좋아요 :)"
+      }
+    ]
   },
   {
     "id": "CB0002",
